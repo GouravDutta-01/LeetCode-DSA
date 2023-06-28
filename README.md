@@ -17,4 +17,5 @@
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Java](./DP/best-time-to-buy-and-sell-stock-with-cooldown_309/Solution.java)|Medium|Dynamic Programming|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Java](./DP/best-time-to-buy-and-sell-stock-with-transaction-fee_714/Solution.java)|Medium|Dynamic Programming|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](./LinkedList/middle-of-the-linked-list_876/Solution.java)|Easy|Linked List|
+|1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Java](./DP/longest-string-chain_1048/Solution.java)|Medium|Dynamic Programming|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Java 1](./DP/longest-common-subsequence_1143/Solution.java) [2](./DP/longest-common-subsequence_1143/Solution2.java)|Medium|Dynamic Programming|
