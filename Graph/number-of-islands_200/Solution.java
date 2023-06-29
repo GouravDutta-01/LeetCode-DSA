@@ -26,12 +26,12 @@ class Solution {
         vis[i][j] = 1;
         Queue<Pair> q = new LinkedList<>();
         q.add(new Pair(i, j));
+        int delRow[] = {-1, +1, 0, 0};
+        int delCol[] = {0, 0, -1, +1};
         while(!q.isEmpty()){
             int row = q.peek().first;
             int col = q.peek().second;
             q.remove();
-            int delRow[] = {-1, +1, 0, 0};
-            int delCol[] = {0, 0, -1, +1};
             for(int k=0; k<4; k++){
                 int nRow = row + delRow[k];
                 int nCol = col + delCol[k];
