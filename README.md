@@ -15,6 +15,7 @@
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Java](./LinkedList/palindrome-linked-list_234/Solution.java)|Easy|Linked List|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java 1](./DP/longest-increasing-subsequence_300/Solution.java) [2](./DP/longest-increasing-subsequence_300/Solution2.java) [3](./DP/longest-increasing-subsequence_300/Solution3.java) [4](./DP/longest-increasing-subsequence_300/Solution4.java)|Medium|Dynamic Programming|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Java](./DP/best-time-to-buy-and-sell-stock-with-cooldown_309/Solution.java)|Medium|Dynamic Programming|
+|516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[Java](./DP/longest-palindromic-subsequence_516/Solution.java)|Medium|Dynamic Programming|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Java](./DP/best-time-to-buy-and-sell-stock-with-transaction-fee_714/Solution.java)|Medium|Dynamic Programming|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](./LinkedList/middle-of-the-linked-list_876/Solution.java)|Easy|Linked List|
 |1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Java](./DP/longest-string-chain_1048/Solution.java)|Medium|Dynamic Programming|
