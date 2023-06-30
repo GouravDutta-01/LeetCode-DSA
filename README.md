@@ -25,5 +25,6 @@
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](./Graph/is-graph-bipartite_785/Solution.java)|Medium|Graph|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](./LinkedList/middle-of-the-linked-list_876/Solution.java)|Easy|Linked List|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Java](./Graph/rotting-oranges_994/Solution.java)|Medium|Graph|
+|1020|[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)|[Java](./Graph/number-of-enclaves_1020/Solution.java)|Medium|Graph|
 |1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Java](./DP/longest-string-chain_1048/Solution.java)|Medium|Dynamic Programming|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Java 1](./DP/longest-common-subsequence_1143/Solution.java) [2](./DP/longest-common-subsequence_1143/Solution2.java)|Medium|Dynamic Programming|
