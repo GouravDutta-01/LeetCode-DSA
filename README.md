@@ -23,6 +23,7 @@
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Java](./DP/best-time-to-buy-and-sell-stock-with-transaction-fee_714/Solution.java)|Medium|Dynamic Programming|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java](./Graph/flood-fill_733/Solution.java)|Easy|Graph|
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](./Graph/is-graph-bipartite_785/Solution.java)|Medium|Graph|
+|802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Java](./Graph/find-eventual-safe-states_802/Solution.java)|Medium|Graph|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](./LinkedList/middle-of-the-linked-list_876/Solution.java)|Easy|Linked List|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Java](./Graph/rotting-oranges_994/Solution.java)|Medium|Graph|
 |1020|[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)|[Java](./Graph/number-of-enclaves_1020/Solution.java)|Medium|Graph|
