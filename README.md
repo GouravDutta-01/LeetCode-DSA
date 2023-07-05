@@ -7,6 +7,7 @@
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Java](./DP/unique-paths_62/Solution.java)|Medium|Dynamic Programming|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Java](./DP/unique-paths_63/Solution.java)|Medium|Dynamic Programming|
 |101|[Symmeteric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./BinaryTree/symmetric-tree_101/Solution.java)|Easy|Binary Tree|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./BinaryTree/maximum-depth-of-binary-tree_104/Solution.java)|Easy|Binary Tree|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./LinkedList/linked-list-cycle_141/Solution.java)|Easy|Linked List|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Java](./DP/triangle_120/Solution.java)|Medium|Dynamic Programming|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Java](./DP/best-time-to-buy-and-sell-stock-ii_122/Solution.java)|Medium|Dynamic Programming|
