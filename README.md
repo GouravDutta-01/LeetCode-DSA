@@ -6,6 +6,7 @@
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[Java](./DP/wildcard-matching_44/Solution.java)|Hard|Dynamic Programming|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Java](./DP/unique-paths_62/Solution.java)|Medium|Dynamic Programming|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Java](./DP/unique-paths_63/Solution.java)|Medium|Dynamic Programming|
+|101|[Symmeteric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./BinaryTree/symmetric-tree_101/Solution.java)|Easy|Binary Tree|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./LinkedList/linked-list-cycle_141/Solution.java)|Easy|Linked List|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|[Java](./DP/triangle_120/Solution.java)|Medium|Dynamic Programming|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Java](./DP/best-time-to-buy-and-sell-stock-ii_122/Solution.java)|Medium|Dynamic Programming|
@@ -16,6 +17,7 @@
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Java](./Graph/number-of-islands_200/Solution.java)|Medium|Graph|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Java](./DP/house-robber-ii_213/Solution.java)|Medium|Dynamic Programming|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Java](./LinkedList/palindrome-linked-list_234/Solution.java)|Easy|Linked List|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./BinaryTree/binary-tree-paths_257/Solution.java)|Easy|Binary Tree|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java 1](./DP/longest-increasing-subsequence_300/Solution.java) [2](./DP/longest-increasing-subsequence_300/Solution2.java) [3](./DP/longest-increasing-subsequence_300/Solution3.java) [4](./DP/longest-increasing-subsequence_300/Solution4.java)|Medium|Dynamic Programming|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Java](./DP/best-time-to-buy-and-sell-stock-with-cooldown_309/Solution.java)|Medium|Dynamic Programming|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[Java](./DP/burst-balloons_312/Solution.java)|Hard|Dynamic Programming|
