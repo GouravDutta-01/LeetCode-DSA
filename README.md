@@ -16,6 +16,8 @@
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](./LinkedList/linked-list-cycle-ii_142/Solution.java)|Medium|Linked List|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[Java 1](./DP/house-robber_198/Solution.java) [2](./DP/house-robber_198/Solution2.java)|Medium|Dynamic Programming|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Java](./Graph/number-of-islands_200/Solution.java)|Medium|Graph|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Java](./Graph/course-schedule_207/Solution.java)|Medium|Graph|
+|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Java](./Graph/course-schedule-ii_210/Solution.java)|Medium|Graph|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Java](./DP/house-robber-ii_213/Solution.java)|Medium|Dynamic Programming|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Java](./LinkedList/palindrome-linked-list_234/Solution.java)|Easy|Linked List|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./BinaryTree/binary-tree-paths_257/Solution.java)|Easy|Binary Tree|
