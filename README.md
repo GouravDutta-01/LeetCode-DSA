@@ -37,3 +37,4 @@
 |1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Java](./DP/longest-string-chain_1048/Solution.java)|Medium|Dynamic Programming|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Java 1](./DP/longest-common-subsequence_1143/Solution.java) [2](./DP/longest-common-subsequence_1143/Solution2.java)|Medium|Dynamic Programming|
 |1312|[Minuimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)|[Java](./DP/minimum-insertion-steps-to-make-a-string-palindrome_1312/Solution.java)|Hard|Dynamic Programming|
+|1547|[Minuimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)|[Java](./DP/minimum-cost-to-cut-a-stick_1547/Solution.java)|Hard|Dynamic Programming|
