@@ -5,7 +5,8 @@
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](./LinkedList/merge-two-sorted-lists_21/Solution.java)|Easy|Linked List|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[Java](./DP/wildcard-matching_44/Solution.java)|Hard|Dynamic Programming|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Java](./DP/unique-paths_62/Solution.java)|Medium|Dynamic Programming|
-|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Java](./DP/unique-paths_63/Solution.java)|Medium|Dynamic Programming|
+|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Java](./DP/unique-paths-ii_63/Solution.java)|Medium|Dynamic Programming|
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](./DP/edit-distance_72/Solution.java)|Medium|Dynamic Programming|
 |101|[Symmeteric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./BinaryTree/symmetric-tree_101/Solution.java)|Easy|Binary Tree|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./BinaryTree/maximum-depth-of-binary-tree_104/Solution.java)|Easy|Binary Tree|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./LinkedList/linked-list-cycle_141/Solution.java)|Easy|Linked List|
