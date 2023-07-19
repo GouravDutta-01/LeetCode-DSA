@@ -6,6 +6,8 @@
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](./RecursionAndBacktracking/combination-sum_39/Solution.java)|Medium|Recursion and Backtracking|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Java](./RecursionAndBacktracking/combination-sum-ii_40/Solution.java)|Medium|Recursion and Backtracking|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[Java](./DP/wildcard-matching_44/Solution.java)|Hard|Dynamic Programming|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](./RecursionAndBacktracking/n-queens_51/Solution.java)|Hard|Recursion and Backtracking|
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Java](./RecursionAndBacktracking/n-queens-ii_52/Solution.java)|Hard|Recursion and Backtracking|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Java](./DP/unique-paths_62/Solution.java)|Medium|Dynamic Programming|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Java](./DP/unique-paths-ii_63/Solution.java)|Medium|Dynamic Programming|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](./DP/edit-distance_72/Solution.java)|Medium|Dynamic Programming|
