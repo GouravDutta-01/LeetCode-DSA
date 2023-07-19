@@ -3,6 +3,8 @@
 | # | Title | Solution | Difficulty | Category |
 |----------------|-----------------|-------------|----------------|--------------|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](./LinkedList/merge-two-sorted-lists_21/Solution.java)|Easy|Linked List|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](./RecursionAndBacktracking/combination-sum_39/Solution.java)|Medium|Recursion and Backtracking|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Java](./RecursionAndBacktracking/combination-sum-ii_40/Solution.java)|Medium|Recursion and Backtracking|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[Java](./DP/wildcard-matching_44/Solution.java)|Hard|Dynamic Programming|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Java](./DP/unique-paths_62/Solution.java)|Medium|Dynamic Programming|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Java](./DP/unique-paths-ii_63/Solution.java)|Medium|Dynamic Programming|
