@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty | Category |
 |----------------|-----------------|-------------|----------------|--------------|
+|20|[Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)|[Java](./Stack/valid-parentheses_20/Solution.java)|Easy|Stack|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](./LinkedList/merge-two-sorted-lists_21/Solution.java)|Easy|Linked List|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Java](./RecursionAndBacktracking/sudoku-solver_37/Solution.java)|Hard|Recursion and Backtracking|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](./RecursionAndBacktracking/combination-sum_39/Solution.java)|Medium|Recursion and Backtracking|
@@ -33,6 +34,7 @@
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Java](./DP/best-time-to-buy-and-sell-stock-with-cooldown_309/Solution.java)|Medium|Dynamic Programming|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[Java](./DP/burst-balloons_312/Solution.java)|Hard|Dynamic Programming|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Java 1](./DP/combination-sum-iv_377/Solution.java) [2](./DP/combination-sum-iv_377/Solution2.java)|Medium|Dynamic Programming|
+|503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./Stack/next-greater-element-ii_503/Solution.java)|Medium|Stack|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[Java](./DP/longest-palindromic-subsequence_516/Solution.java)|Medium|Dynamic Programming|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Java](./BinaryTree/minimum-absolute-difference-in-bst_530/Solution.java)|Easy|Binary Tree|
 |547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[Java](./Graph/number-of-provinces_547/Solution.java)|Medium|Graph|
