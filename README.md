@@ -11,6 +11,7 @@
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Java](./RecursionAndBacktracking/permutations_46/Solution.java)|Medium|Recursion and Backtracking|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](./RecursionAndBacktracking/n-queens_51/Solution.java)|Hard|Recursion and Backtracking|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Java](./RecursionAndBacktracking/n-queens-ii_52/Solution.java)|Hard|Recursion and Backtracking|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](./GreedyAlgorithm/jump-game_55/Solution.java)|Medium|Greedy Algorithm|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Java](./DP/unique-paths_62/Solution.java)|Medium|Dynamic Programming|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Java](./DP/unique-paths-ii_63/Solution.java)|Medium|Dynamic Programming|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](./DP/edit-distance_72/Solution.java)|Medium|Dynamic Programming|
