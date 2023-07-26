@@ -34,6 +34,7 @@
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Java](./DP/best-time-to-buy-and-sell-stock-with-cooldown_309/Solution.java)|Medium|Dynamic Programming|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[Java](./DP/burst-balloons_312/Solution.java)|Hard|Dynamic Programming|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Java 1](./DP/combination-sum-iv_377/Solution.java) [2](./DP/combination-sum-iv_377/Solution2.java)|Medium|Dynamic Programming|
+|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[Java](./GreedyAlgorithm/assign-cookies_455/Solution.java)|Easy|Greedy Algorithm|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./Stack/next-greater-element-ii_503/Solution.java)|Medium|Stack|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[Java](./DP/longest-palindromic-subsequence_516/Solution.java)|Medium|Dynamic Programming|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Java](./BinaryTree/minimum-absolute-difference-in-bst_530/Solution.java)|Easy|Binary Tree|
@@ -43,6 +44,7 @@
 |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|[Java](./Stack/asteroid-collision_735/Solution.java)|Medium|Stack|
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](./Graph/is-graph-bipartite_785/Solution.java)|Medium|Graph|
 |802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Java](./Graph/find-eventual-safe-states_802/Solution.java)|Medium|Graph|
+|860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Java](./GreedyAlgorithm/lemonade-change_860/Solution.java)|Easy|Greedy Algorithm|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](./LinkedList/middle-of-the-linked-list_876/Solution.java)|Easy|Linked List|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Java](./Graph/rotting-oranges_994/Solution.java)|Medium|Graph|
 |1020|[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)|[Java](./Graph/number-of-enclaves_1020/Solution.java)|Medium|Graph|
