@@ -48,8 +48,11 @@
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Java](./GreedyAlgorithm/lemonade-change_860/Solution.java)|Easy|Greedy Algorithm|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](./LinkedList/middle-of-the-linked-list_876/Solution.java)|Easy|Linked List|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Java](./Graph/rotting-oranges_994/Solution.java)|Medium|Graph|
+|1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)|[Java](./BinarySearch/capacity-to-ship-packages-within-d-days_1011/Solution.java)|Medium|Binary Search|
 |1020|[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)|[Java](./Graph/number-of-enclaves_1020/Solution.java)|Medium|Graph|
 |1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Java](./DP/longest-string-chain_1048/Solution.java)|Medium|Dynamic Programming|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Java 1](./DP/longest-common-subsequence_1143/Solution.java) [2](./DP/longest-common-subsequence_1143/Solution2.java)|Medium|Dynamic Programming|
 |1312|[Minuimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)|[Java](./DP/minimum-insertion-steps-to-make-a-string-palindrome_1312/Solution.java)|Hard|Dynamic Programming|
+|1482|[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)|[Java](./BinarySearch/minimum-number-of-days-to-make-m-bouquets_1482/Solution.java)|Medium|Binary Search|
 |1547|[Minuimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)|[Java](./DP/minimum-cost-to-cut-a-stick_1547/Solution.java)|Hard|Dynamic Programming|
+|2616|[Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/)|[Java](./BinarySearch/minimize-the-maximum-difference-of-pairs_2616/Solution.java)|Medium|Binary Search|
