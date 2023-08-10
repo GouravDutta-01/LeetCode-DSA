@@ -35,6 +35,7 @@
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Java](./DP/best-time-to-buy-and-sell-stock-with-cooldown_309/Solution.java)|Medium|Dynamic Programming|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[Java](./DP/burst-balloons_312/Solution.java)|Hard|Dynamic Programming|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Java 1](./DP/combination-sum-iv_377/Solution.java) [2](./DP/combination-sum-iv_377/Solution2.java)|Medium|Dynamic Programming|
+|410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|[Java](./BinarySearch/split-array-largest-sum_410/Solution.java)|Hard|Binary Search|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[Java](./GreedyAlgorithm/assign-cookies_455/Solution.java)|Easy|Greedy Algorithm|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./Stack/next-greater-element-ii_503/Solution.java)|Medium|Stack|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[Java](./DP/longest-palindromic-subsequence_516/Solution.java)|Medium|Dynamic Programming|
