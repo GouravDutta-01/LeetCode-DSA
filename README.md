@@ -4,6 +4,7 @@
 |----------------|-----------------|-------------|----------------|--------------|
 |20|[Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/)|[Java](./Stack/valid-parentheses_20/Solution.java)|Easy|Stack|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](./LinkedList/merge-two-sorted-lists_21/Solution.java)|Easy|Linked List|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Java](./BinarySearch/find-first-and-last-position-of-element-in-sorted-array_34/Solution.java)|Medium|Binary Search|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Java](./RecursionAndBacktracking/sudoku-solver_37/Solution.java)|Hard|Recursion and Backtracking|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](./RecursionAndBacktracking/combination-sum_39/Solution.java)|Medium|Recursion and Backtracking|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Java](./RecursionAndBacktracking/combination-sum-ii_40/Solution.java)|Medium|Recursion and Backtracking|
