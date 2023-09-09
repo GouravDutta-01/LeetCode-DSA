@@ -32,6 +32,7 @@
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Java](./DP/house-robber-ii_213/Solution.java)|Medium|Dynamic Programming|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[Java](./RecursionAndBacktracking/combination-sum-iii_216/Solution.java)|Medium|Recursion and Backtracking|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Java](./LinkedList/palindrome-linked-list_234/Solution.java)|Easy|Linked List|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Java](./BinarySearch/search-a-2d-matrix-ii_240/Solution.java)|Medium|Binary Search|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./BinaryTree/binary-tree-paths_257/Solution.java)|Easy|Binary Tree|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java 1](./DP/longest-increasing-subsequence_300/Solution.java) [2](./DP/longest-increasing-subsequence_300/Solution2.java) [3](./DP/longest-increasing-subsequence_300/Solution3.java) [4](./DP/longest-increasing-subsequence_300/Solution4.java)|Medium|Dynamic Programming|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Java](./DP/best-time-to-buy-and-sell-stock-with-cooldown_309/Solution.java)|Medium|Dynamic Programming|
