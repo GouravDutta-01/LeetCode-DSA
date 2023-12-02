@@ -25,6 +25,7 @@
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Java](./DP/best-time-to-buy-and-sell-stock-iii_123/Solution.java)|Hard|Dynamic Programming|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Java](./Graph/surrounded-regions_130/Solution.java)|Medium|Graph|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](./LinkedList/linked-list-cycle-ii_142/Solution.java)|Medium|Linked List|
+|167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Java](./ArraysAndArraylists/two-sum-ii-input-array-is-sorted_167/Solution.java)|Medium|Arrays|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[Java 1](./DP/house-robber_198/Solution.java) [2](./DP/house-robber_198/Solution2.java)|Medium|Dynamic Programming|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Java](./Graph/number-of-islands_200/Solution.java)|Medium|Graph|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Java](./Graph/course-schedule_207/Solution.java)|Medium|Graph|
