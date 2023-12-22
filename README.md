@@ -66,4 +66,5 @@
 |1312|[Minuimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)|[Java](./DP/minimum-insertion-steps-to-make-a-string-palindrome_1312/Solution.java)|Hard|Dynamic Programming|
 |1482|[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)|[Java](./BinarySearch/minimum-number-of-days-to-make-m-bouquets_1482/Solution.java)|Medium|Binary Search|
 |1547|[Minuimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)|[Java](./DP/minimum-cost-to-cut-a-stick_1547/Solution.java)|Hard|Dynamic Programming|
+|1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)|[Java](./Strings/merge-strings-alternately_1768/Solution.java)|Easy|Strings|
 |2616|[Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/)|[Java](./BinarySearch/minimize-the-maximum-difference-of-pairs_2616/Solution.java)|Medium|Binary Search|
