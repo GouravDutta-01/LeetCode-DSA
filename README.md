@@ -41,6 +41,7 @@
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java 1](./DP/longest-increasing-subsequence_300/Solution.java) [2](./DP/longest-increasing-subsequence_300/Solution2.java) [3](./DP/longest-increasing-subsequence_300/Solution3.java) [4](./DP/longest-increasing-subsequence_300/Solution4.java)|Medium|Dynamic Programming|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Java](./DP/best-time-to-buy-and-sell-stock-with-cooldown_309/Solution.java)|Medium|Dynamic Programming|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[Java](./DP/burst-balloons_312/Solution.java)|Hard|Dynamic Programming|
+|345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)|[Java](./Strings/reverse-vowels-of-a-string_345/Solution.java)|Easy|Strings|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Java 1](./DP/combination-sum-iv_377/Solution.java) [2](./DP/combination-sum-iv_377/Solution2.java)|Medium|Dynamic Programming|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|[Java](./BinarySearch/split-array-largest-sum_410/Solution.java)|Hard|Binary Search|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[Java](./GreedyAlgorithm/assign-cookies_455/Solution.java)|Easy|Greedy Algorithm|
