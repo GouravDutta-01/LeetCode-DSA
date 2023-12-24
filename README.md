@@ -44,6 +44,7 @@
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)|[Java](./Strings/reverse-vowels-of-a-string_345/Solution.java)|Easy|Strings|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Java 1](./DP/combination-sum-iv_377/Solution.java) [2](./DP/combination-sum-iv_377/Solution2.java)|Medium|Dynamic Programming|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|[Java](./BinarySearch/split-array-largest-sum_410/Solution.java)|Hard|Binary Search|
+|450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)|[Java](./BinarySearchTree/delete-node-in-a-bst_450/Solution.java)|Medium|BST|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[Java](./GreedyAlgorithm/assign-cookies_455/Solution.java)|Easy|Greedy Algorithm|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./Stack/next-greater-element-ii_503/Solution.java)|Medium|Stack|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[Java](./DP/longest-palindromic-subsequence_516/Solution.java)|Medium|Dynamic Programming|
@@ -51,6 +52,7 @@
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Java](./BinaryTree/minimum-absolute-difference-in-bst_530/Solution.java)|Easy|Binary Tree|
 |547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[Java](./Graph/number-of-provinces_547/Solution.java)|Medium|Graph|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/)|[Java](./ArraysAndArraylists/can-place-flowers_605/Solution.java)|Easy|Arrays|
+|700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Java](./BinarySearchTree/search-in-a-binary-search-tree_700/Solution.java)|Easy|BST|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Java](./DP/best-time-to-buy-and-sell-stock-with-transaction-fee_714/Solution.java)|Medium|Dynamic Programming|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java](./Graph/flood-fill_733/Solution.java)|Easy|Graph|
 |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|[Java](./Stack/asteroid-collision_735/Solution.java)|Medium|Stack|
