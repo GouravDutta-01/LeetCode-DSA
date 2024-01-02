@@ -31,6 +31,7 @@
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[Java 1](./DP/house-robber_198/Solution.java) [2](./DP/house-robber_198/Solution2.java)|Medium|Dynamic Programming|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Java](./Graph/number-of-islands_200/Solution.java)|Medium|Graph|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Java](./Graph/course-schedule_207/Solution.java)|Medium|Graph|
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)|[Java](./SlidingWindow&TwoPointer/minimum-size-subarray-sum_209/Solution.java)|Medium|Sliding Window|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Java](./Graph/course-schedule-ii_210/Solution.java)|Medium|Graph|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Java](./DP/house-robber-ii_213/Solution.java)|Medium|Dynamic Programming|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[Java](./RecursionAndBacktracking/combination-sum-iii_216/Solution.java)|Medium|Recursion and Backtracking|
@@ -46,6 +47,7 @@
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|[Java](./BinarySearch/split-array-largest-sum_410/Solution.java)|Hard|Binary Search|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)|[Java](./BinarySearchTree/delete-node-in-a-bst_450/Solution.java)|Medium|BST|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[Java](./GreedyAlgorithm/assign-cookies_455/Solution.java)|Easy|Greedy Algorithm|
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)|[Java](./SlidingWindow&TwoPointer/max-consecutive-ones_485/Solution.java)|Easy|Sliding Window|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./Stack/next-greater-element-ii_503/Solution.java)|Medium|Stack|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)|[Java](./DP/longest-palindromic-subsequence_516/Solution.java)|Medium|Dynamic Programming|
 |518|[Coin Change II](https://leetcode.com/problems/coin-change-ii/)|[Java](./DP/coin-change-ii_518/Solution.java)|Medium|Dynamic Programming|
@@ -61,6 +63,7 @@
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Java](./GreedyAlgorithm/lemonade-change_860/Solution.java)|Easy|Greedy Algorithm|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](./LinkedList/middle-of-the-linked-list_876/Solution.java)|Easy|Linked List|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Java](./Graph/rotting-oranges_994/Solution.java)|Medium|Graph|
+|1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)|[Java](./SlidingWindow&TwoPointer/max-consecutive-ones-iii_1004/Solution.java)|Medium|Sliding Window|
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)|[Java](./BinarySearch/capacity-to-ship-packages-within-d-days_1011/Solution.java)|Medium|Binary Search|
 |1020|[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)|[Java](./Graph/number-of-enclaves_1020/Solution.java)|Medium|Graph|
 |1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Java](./DP/longest-string-chain_1048/Solution.java)|Medium|Dynamic Programming|
