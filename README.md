@@ -11,6 +11,7 @@
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Java](./RecursionAndBacktracking/combination-sum-ii_40/Solution.java)|Medium|Recursion and Backtracking|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)|[Java](./ArraysAndArraylists/trapping-rain-water_42/Solution.java)|Hard|Arrays|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[Java](./DP/wildcard-matching_44/Solution.java)|Hard|Dynamic Programming|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|[Java](./GreedyAlgorithm/jump-game-ii_45/Solution.java)|Medium|Greedy Algorithm|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Java](./RecursionAndBacktracking/permutations_46/Solution.java)|Medium|Recursion and Backtracking|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](./RecursionAndBacktracking/n-queens_51/Solution.java)|Hard|Recursion and Backtracking|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Java](./RecursionAndBacktracking/n-queens-ii_52/Solution.java)|Hard|Recursion and Backtracking|
@@ -76,5 +77,6 @@
 |1547|[Minuimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)|[Java](./DP/minimum-cost-to-cut-a-stick_1547/Solution.java)|Hard|Dynamic Programming|
 |1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/)|[Java](./ArraysAndArraylists/max-number-of-k-sum-pairs_1679/Solution.java)|Medium|Arrays|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)|[Java](./Strings/merge-strings-alternately_1768/Solution.java)|Easy|Strings|
+|1781|[Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/description/)|[Java](./Strings/sum-of-beauty-of-all-substrings_1781/Solution.java)|Medium|Strings|
 |1838|[Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/)|[Java](./SlidingWindow&TwoPointer/frequency-of-the-most-frequent-element_1838/Solution.java)|Medium|Sliding Window|
 |2616|[Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/)|[Java](./BinarySearch/minimize-the-maximum-difference-of-pairs_2616/Solution.java)|Medium|Binary Search|
