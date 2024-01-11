@@ -28,6 +28,7 @@
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Java](./DP/best-time-to-buy-and-sell-stock-iii_123/Solution.java)|Hard|Dynamic Programming|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Java](./Graph/surrounded-regions_130/Solution.java)|Medium|Graph|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](./LinkedList/linked-list-cycle-ii_142/Solution.java)|Medium|Linked List|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[Java](./Stack/min-stack_155/Solution.java)|Medium|Stack|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Java](./ArraysAndArraylists/two-sum-ii-input-array-is-sorted_167/Solution.java)|Medium|Arrays|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[Java 1](./DP/house-robber_198/Solution.java) [2](./DP/house-robber_198/Solution2.java)|Medium|Dynamic Programming|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Java](./Graph/number-of-islands_200/Solution.java)|Medium|Graph|
@@ -45,6 +46,7 @@
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[Java](./DP/burst-balloons_312/Solution.java)|Hard|Dynamic Programming|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)|[Java](./Strings/reverse-vowels-of-a-string_345/Solution.java)|Easy|Strings|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Java 1](./DP/combination-sum-iv_377/Solution.java) [2](./DP/combination-sum-iv_377/Solution2.java)|Medium|Dynamic Programming|
+|402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/)|[Java](./Stack/remove-k-digits_402/Solution.java)|Medium|Stack|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|[Java](./BinarySearch/split-array-largest-sum_410/Solution.java)|Hard|Binary Search|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)|[Java](./BinarySearchTree/delete-node-in-a-bst_450/Solution.java)|Medium|BST|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[Java](./GreedyAlgorithm/assign-cookies_455/Solution.java)|Easy|Greedy Algorithm|
