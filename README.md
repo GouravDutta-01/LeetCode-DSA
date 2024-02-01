@@ -30,6 +30,7 @@
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Java](./DP/best-time-to-buy-and-sell-stock-iii_123/Solution.java)|Hard|Dynamic Programming|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Java](./Graph/surrounded-regions_130/Solution.java)|Medium|Graph|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](./LinkedList/linked-list-cycle-ii_142/Solution.java)|Medium|Linked List|
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)|[Java](./Stack/evaluate-reverse-polish-notation_150/Solution.java)|Medium|Stack|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[Java](./Stack/min-stack_155/Solution.java)|Medium|Stack|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Java](./ArraysAndArraylists/two-sum-ii-input-array-is-sorted_167/Solution.java)|Medium|Arrays|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[Java 1](./DP/house-robber_198/Solution.java) [2](./DP/house-robber_198/Solution2.java)|Medium|Dynamic Programming|
@@ -64,6 +65,7 @@
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[Java](./DP/best-time-to-buy-and-sell-stock-with-transaction-fee_714/Solution.java)|Medium|Dynamic Programming|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java](./Graph/flood-fill_733/Solution.java)|Easy|Graph|
 |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|[Java](./Stack/asteroid-collision_735/Solution.java)|Medium|Stack|
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)|[Java](./Stack/daily-temperatures_739/Solution.java)|Medium|Stack|
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](./Graph/is-graph-bipartite_785/Solution.java)|Medium|Graph|
 |802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Java](./Graph/find-eventual-safe-states_802/Solution.java)|Medium|Graph|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Java](./GreedyAlgorithm/lemonade-change_860/Solution.java)|Easy|Greedy Algorithm|
